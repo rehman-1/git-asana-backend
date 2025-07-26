@@ -1,0 +1,2045 @@
+[
+  {
+    "id": "1210841865488942",
+    "name": "[BE] 대상 디바이스 목록 메일 템플릿 생성 API ",
+    "completed": false,
+    "assignee": "송빈호",
+    "assignee_email": "bhsong@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210841865488942",
+    "section": "🏃 In Progress"
+  },
+  {
+    "id": "1210565633007287",
+    "name": "[FE] 공통 - 개발작업",
+    "completed": false,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210565633007287",
+    "section": "🏃 In Progress"
+  },
+  {
+    "id": "1210841716813131",
+    "name": "[FE] (API) 선택된 computer_ids validation api 연결",
+    "completed": false,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210841716813131",
+    "section": "🏃 In Progress"
+  },
+  {
+    "id": "1210723749611424",
+    "name": "[EOS-SV_001] 점검 설문",
+    "completed": false,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210723749611424",
+    "section": "🏃 In Progress"
+  },
+  {
+    "id": "1210565612062956",
+    "name": "[EOS-EX_001~005] 작업 생성",
+    "completed": false,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210565612062956",
+    "section": "🏃 In Progress"
+  },
+  {
+    "id": "1210634059480135",
+    "name": "[기획][EOS-RS_001. 작업 실행 결과] 정책 작성",
+    "completed": false,
+    "assignee": "안소정",
+    "assignee_email": "sjan@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210634059480135",
+    "section": "🏃 In Progress"
+  },
+  {
+    "id": "1210565611828607",
+    "name": "[EOS-CL_001~002] 캘린더",
+    "completed": false,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210565611828607",
+    "section": "🏃 In Progress"
+  },
+  {
+    "id": "1210565597605479",
+    "name": "[EOS-HL_001] 작업 내역 페이지",
+    "completed": false,
+    "assignee": "김성훈",
+    "assignee_email": "ksh@xionits.com",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210565597605479",
+    "section": "🏃 In Progress"
+  },
+  {
+    "id": "1210565632029852",
+    "name": "[EOS-DB_001] 대시보드",
+    "completed": false,
+    "assignee": "Unassigned",
+    "assignee_email": "",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210565632029852",
+    "section": "🏃 In Progress"
+  },
+  {
+    "id": "1210783243384698",
+    "name": "[BE] 점검 설문 - 테이블 리스트 api",
+    "completed": false,
+    "assignee": "김종윤",
+    "assignee_email": "jyunkim@xionits.com",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210783243384698",
+    "section": "🏃 In Progress"
+  },
+  {
+    "id": "1210841716813146",
+    "name": "[FE] (API) 작업 생성 api 연결",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210841716813146",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210723198142800",
+    "name": "[기획][EOS-RS_001. 작업 실행 결과] 정책 작성 - 기준화면",
+    "completed": true,
+    "assignee": "안소정",
+    "assignee_email": "sjan@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210723198142800",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210841831425087",
+    "name": "[기획][EOS-RS_001. 작업 실행 결과] 정책 작성 - 모달화면",
+    "completed": true,
+    "assignee": "안소정",
+    "assignee_email": "sjan@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210841831425087",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210841725547958",
+    "name": "[BE] 백엔드 코드 리뷰 가이드 작성",
+    "completed": true,
+    "assignee": "박경석",
+    "assignee_email": "kspark@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210841725547958",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210864934907754",
+    "name": "[FE] 컨벤션 문서 작성",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210864934907754",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210841716813137",
+    "name": "[FE] (API) 작업 생성 시도 시, 디바이스 목록 정보 조회 api 연결",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210841716813137",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210876417664742",
+    "name": "Table - 행 선택시 디자인 추가",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210876417664742",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210876417664738",
+    "name": "Table - 사이즈 조정 가능하도록 기능 추가",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210876417664738",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210864934907771",
+    "name": "Table - Radio 선택하는 경우",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210864934907771",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210723749611417",
+    "name": "[FE] (API) 이전에 작업된 목록 조회 api 연결",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210723749611417",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210841716813119",
+    "name": "[FE] (API) Step 별 디바이스 목록 조회 api 연결",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210841716813119",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210841865488936",
+    "name": "[BE] 대상 디바이스 목록 부적합 원인 분석 차트 API",
+    "completed": true,
+    "assignee": "송빈호",
+    "assignee_email": "bhsong@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210841865488936",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210864934907763",
+    "name": "Table - 정렬",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210864934907763",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210864934907762",
+    "name": "Table - Top 영역",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210864934907762",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210864934907759",
+    "name": "Table - 로딩중",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210864934907759",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210864934907758",
+    "name": "Table - 데이터가 없는 경우",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210864934907758",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210577498886668",
+    "name": "[BE] 엑셀 다운로드 api",
+    "completed": true,
+    "assignee": "박경석",
+    "assignee_email": "kspark@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210577498886668",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210841716813153",
+    "name": "[FE] 대시보드 캘린더 컴포넌트 연결",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210841716813153",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210828976600508",
+    "name": "[BE] 점검 설문 - 설문 발송 api",
+    "completed": true,
+    "assignee": "김종윤",
+    "assignee_email": "jyunkim@xionits.com",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210828976600508",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210841716813125",
+    "name": "[FE] (API) 작업명 중복 체크 api 연결",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210841716813125",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210828976600513",
+    "name": "[BE] 점검 설문 - 설문 응답 api",
+    "completed": true,
+    "assignee": "김종윤",
+    "assignee_email": "jyunkim@xionits.com",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210828976600513",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210864198366131",
+    "name": "[FE] 비로그인 진입 포인트 복구",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210864198366131",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210864934907761",
+    "name": "Table - Bottom 영역",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210864934907761",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210864934907760",
+    "name": "Pagenation 공통 컴포넌트",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210864934907760",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210864934907757",
+    "name": "Table - 데이터가 있는 경우",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210864934907757",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210828184848007",
+    "name": "[기획] Tanium Deploy 로직 관련 기획 수정",
+    "completed": true,
+    "assignee": "안소정",
+    "assignee_email": "sjan@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210828184848007",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210828184848010",
+    "name": "[기획] 작업 생성 이메일 템플릿 기획",
+    "completed": true,
+    "assignee": "안소정",
+    "assignee_email": "sjan@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210828184848010",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210714384949588",
+    "name": "[BE] eos_deploy_data_table 필드 추가",
+    "completed": true,
+    "assignee": "박경석",
+    "assignee_email": "kspark@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210714384949588",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210852721594928",
+    "name": "[FE] [QA] 필터 정책과 다르게 동작하는 이슈 수정",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210852721594928",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210577232890524",
+    "name": "[FE] 작업 내역 필터 모달 UI",
+    "completed": true,
+    "assignee": "김성훈",
+    "assignee_email": "ksh@xionits.com",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210577232890524",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210783234851875",
+    "name": "API 스키마 작성",
+    "completed": true,
+    "assignee": "김성훈",
+    "assignee_email": "ksh@xionits.com",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210783234851875",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210703161927955",
+    "name": "[FE] 이전 작업에서 선택 불러오기 모달 로직 변경사항 반영",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210703161927955",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210634059511066",
+    "name": "[기획][EOS-SV_001. 점검 설문] 정책 작성",
+    "completed": true,
+    "assignee": "안소정",
+    "assignee_email": "sjan@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210634059511066",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210610600326034",
+    "name": "[FE:API] 대시보드 - ProgressIndicator(Step)",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210610600326034",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210797050410213",
+    "name": "[FE] overviewCalendar 컴포넌트 브라우저 높이에 따라 스크롤 영역 이슈 (FE 자체 QA)",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210797050410213",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210830102977432",
+    "name": "[QA] 캘린더 디자인",
+    "completed": true,
+    "assignee": "김준",
+    "assignee_email": "junkim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210830102977432",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210713998628498",
+    "name": "[BE] TPM 지원 여부 정보 저장 API 개발",
+    "completed": true,
+    "assignee": "송빈호",
+    "assignee_email": "bhsong@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210713998628498",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210827726740874",
+    "name": "[BE][요청] 이전 작업 목록 조회 시 computer_ids 포함 ",
+    "completed": true,
+    "assignee": "박경석",
+    "assignee_email": "kspark@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210827726740874",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210818264955285",
+    "name": "[BE] Task -> History 코드 마이그레이션 ",
+    "completed": true,
+    "assignee": "박경석",
+    "assignee_email": "kspark@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210818264955285",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210565633007264",
+    "name": "[FE] 대상 디바이스 목록 - Header",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210565633007264",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210783240709845",
+    "name": "[BE]점검 설문 기능 요건 정리",
+    "completed": true,
+    "assignee": "김종윤",
+    "assignee_email": "jyunkim@xionits.com",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210783240709845",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210783243384696",
+    "name": "[BE]점검 설문 모델링",
+    "completed": true,
+    "assignee": "김종윤",
+    "assignee_email": "jyunkim@xionits.com",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210783243384696",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210783232381012",
+    "name": "[FE] 이미 시작/완료된 작업 모달",
+    "completed": true,
+    "assignee": "김성훈",
+    "assignee_email": "ksh@xionits.com",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210783232381012",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210783204373445",
+    "name": "[FE] 점검 설문 참여 페이지 구현",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210783204373445",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210816833886773",
+    "name": "[FE] VFlex, HFlex 에 피그마 상 자주 쓰이는 style props 확장",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210816833886773",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210820082658271",
+    "name": "[BE] TPM 정책 체크 디바이스 체크 스케쥴러 개발",
+    "completed": true,
+    "assignee": "송빈호",
+    "assignee_email": "bhsong@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210820082658271",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210828633688991",
+    "name": "[FE] 공통 컴포넌트 LinearPieChart로 변경(중복 컴포넌트 제거)",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210828633688991",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210736852872430",
+    "name": "[BE] 작업 생성 알림 메일 전송 로직 개발",
+    "completed": true,
+    "assignee": "박경석",
+    "assignee_email": "kspark@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210736852872430",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210783220190988",
+    "name": "[BE] 이메일 전송 로직 배치 적용 및 테스트",
+    "completed": true,
+    "assignee": "박경석",
+    "assignee_email": "kspark@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210783220190988",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210783217695682",
+    "name": "[BE] 이메일 전송 로직 개발",
+    "completed": true,
+    "assignee": "박경석",
+    "assignee_email": "kspark@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210783217695682",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210818758283219",
+    "name": "[FE] 대상 디바이스 목록 - Header에 LinearPieChart 공통 컴포넌트 정의",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210818758283219",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210783204373444",
+    "name": "[FE] 점검 설문 페이지 메일 발송 flow",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210783204373444",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210783204373441",
+    "name": "[FE] 점검 설문 페이지 테이블 hover 시 나타나는 탭",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210783204373441",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210783374939730",
+    "name": "[FE] 대시보드 - 정책 적용 및 의사소통",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210783374939730",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210816722761121",
+    "name": "[FE] circle 아이콘 네이밍 변경",
+    "completed": true,
+    "assignee": "김성훈",
+    "assignee_email": "ksh@xionits.com",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210816722761121",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210634059511062",
+    "name": "[기획][EOS-DL_001. 대상 디바이스 목록] 정책 작성",
+    "completed": true,
+    "assignee": "안소정",
+    "assignee_email": "sjan@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210634059511062",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210783349621260",
+    "name": "[기획][EOS-DL_001. 대상 디바이스 목록] 정책 작성 - 수집 오류 시 이전 데이터 표기 관련",
+    "completed": true,
+    "assignee": "안소정",
+    "assignee_email": "sjan@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210783349621260",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210783249336123",
+    "name": "[BE] EOS 검색 필터 개발 ",
+    "completed": true,
+    "assignee": "송빈호",
+    "assignee_email": "bhsong@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210783249336123",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210757939582751",
+    "name": "[FE] 테이블 필터 제거 시 이슈 발생하는 부분 수정",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210757939582751",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210783204373437",
+    "name": "[FE] 점검 설문 페이지 테이블 구성",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210783204373437",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210818306325935",
+    "name": "[FE] 대상 디바이스 목록 - Header에 Counter 공통 컴포넌트 정의",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210818306325935",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210806894914726",
+    "name": "[FE] git hub asana test ticket",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210806894914726",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210806747092000",
+    "name": "[FE] Url Path 변경(대상 디바이스)",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210806747092000",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210841716813175",
+    "name": "[FE] DataTable 컴포넌트 구조 개선 및 문서화 - 사용 예시",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210841716813175",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210841716813169",
+    "name": "[FE] DataTable 컴포넌트 구조 개선 및 문서화 - 구성",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210841716813169",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210783349621259",
+    "name": "[기획][EOS-DL_001. 대상 디바이스 목록] 정책 작성 - TPM 적합여부 검증로직",
+    "completed": true,
+    "assignee": "안소정",
+    "assignee_email": "sjan@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210783349621259",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210565611828619",
+    "name": "[FE] (API) ScheduleMainCalendar, ScheduleOverviewCalendar api 연결",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210565611828619",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210724047002603",
+    "name": "[FE] 대시보드 - Win 11 업그레이드 완료 이후 설문 결과",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210724047002603",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210724047002602",
+    "name": "[FE] 대시보드 - 스텝별 주요 조치 필요 원인",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210724047002602",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210796697505647",
+    "name": "[DevOps] 127용 CICD 파이프라인 구성",
+    "completed": true,
+    "assignee": "김종윤",
+    "assignee_email": "jyunkim@xionits.com",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210796697505647",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210783217695675",
+    "name": "[BE] 공용 비동기 & 스케줄링(Celery) 적용 ",
+    "completed": true,
+    "assignee": "박경석",
+    "assignee_email": "kspark@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210783217695675",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210748285443028",
+    "name": "[기획][EOS-DL_001. 대상 디바이스 목록] 정책 작성 - 필터/TPM지원여부설정/실패원인분석",
+    "completed": true,
+    "assignee": "안소정",
+    "assignee_email": "sjan@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210748285443028",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210724265474608",
+    "name": "[BE] 작업 이름 중복 검사 api",
+    "completed": true,
+    "assignee": "박경석",
+    "assignee_email": "kspark@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210724265474608",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210622325628216",
+    "name": "[BE] validation api (작업 생성 전 점검)",
+    "completed": true,
+    "assignee": "박경석",
+    "assignee_email": "kspark@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210622325628216",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210748285443029",
+    "name": "[기획][EOS-DL_001. 대상 디바이스 목록] 정책 작성 - 메일보내기/메일템플릿설정",
+    "completed": true,
+    "assignee": "안소정",
+    "assignee_email": "sjan@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210748285443029",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210735642766993",
+    "name": "[BE] eos filtering memory -> db 로 변경",
+    "completed": true,
+    "assignee": "송빈호",
+    "assignee_email": "bhsong@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210735642766993",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210878018042435",
+    "name": "[BE] 작업 실행 결과 분석 및 티켓 생성",
+    "completed": true,
+    "assignee": "서혁택",
+    "assignee_email": "htseo@xionits.com",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210878018042435",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210724043715351",
+    "name": "스프린트 3 완료",
+    "completed": true,
+    "assignee": "정재희",
+    "assignee_email": "jhjung@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210724043715351",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210610092311810",
+    "name": "[BE] 대시보드 - 스텝별 작업 필요 PC 수 추이",
+    "completed": true,
+    "assignee": "서혁택",
+    "assignee_email": "htseo@xionits.com",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210610092311810",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210818343518883",
+    "name": "[BE] 대시보드 - 스텝별 작업 필요 PC 수 추이 - 스팩 분석",
+    "completed": true,
+    "assignee": "서혁택",
+    "assignee_email": "htseo@xionits.com",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210818343518883",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210610092311809",
+    "name": "[BE] 대시보드 - 부서별 현황",
+    "completed": true,
+    "assignee": "서혁택",
+    "assignee_email": "htseo@xionits.com",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210610092311809",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210703161927953",
+    "name": "[FE] 테이블 필터 정책 변경 -> 로직 수정",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210703161927953",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210723749611429",
+    "name": "[FE] 점검 설문 페이지 구성 및 요약 완료 Bar 컴포넌트 구현",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210723749611429",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210783374895669",
+    "name": "[BE] 대시보드 - 부서별 현황 (스펙 분석)",
+    "completed": true,
+    "assignee": "서혁택",
+    "assignee_email": "htseo@xionits.com",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210783374895669",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210748285443027",
+    "name": "[기획][EOS-DL_001. 대상 디바이스 목록] 정책 작성 - 기준화면",
+    "completed": true,
+    "assignee": "안소정",
+    "assignee_email": "sjan@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210748285443027",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210723906449875",
+    "name": "[BE] 이전 작업에서 \"불러올 수 있는 디바이스\" 집계 로직",
+    "completed": true,
+    "assignee": "박경석",
+    "assignee_email": "kspark@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210723906449875",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1208165400140985",
+    "name": "[BE] 작업 내역 테이블 - 코드 리뷰 적용",
+    "completed": true,
+    "assignee": "서혁택",
+    "assignee_email": "htseo@xionits.com",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1208165400140985",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210610504674965",
+    "name": "[BE] 작업 내역 실패 원인 분석 API",
+    "completed": true,
+    "assignee": "서혁택",
+    "assignee_email": "htseo@xionits.com",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210610504674965",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210610504674969",
+    "name": "[BE] 작업 내역 엑셀 다운로드 기능 API",
+    "completed": true,
+    "assignee": "서혁택",
+    "assignee_email": "htseo@xionits.com",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210610504674969",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210610504674967",
+    "name": "[BE] 작업 내역 업데이트 기능 API",
+    "completed": true,
+    "assignee": "서혁택",
+    "assignee_email": "htseo@xionits.com",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210610504674967",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210565633007210",
+    "name": "[FE] 대시보드 - 스텝별 작업 필요 PC 수 추이",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210565633007210",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210723749611416",
+    "name": "[FE] 작업 생성 페이지 전체 로딩(스켈레톤 + untouchable)",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210723749611416",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210723749201764",
+    "name": "[FE] 페이지 비즈니스 로직 정리 & 구 페이지 제거",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210723749201764",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210757939582750",
+    "name": "[FE] ContentSwitcher 컴포넌트 정의 & eslint 규칙 추가",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210757939582750",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210735712533217",
+    "name": "[FE] ESA용 버튼 재정의",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210735712533217",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210748526046097",
+    "name": "CButton 연결",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210748526046097",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210748526046096",
+    "name": "BorderButton",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210748526046096",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210748526046095",
+    "name": "GreyButton",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210748526046095",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210748526046093",
+    "name": "PrimaryButton",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210748526046093",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210748526046094",
+    "name": "SubColorButton",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210748526046094",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210577498886684",
+    "name": "[BE] 이전 작업 목록 api",
+    "completed": true,
+    "assignee": "박경석",
+    "assignee_email": "kspark@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210577498886684",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210748526046092",
+    "name": "BadgeButton",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210748526046092",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210748526046091",
+    "name": "Text-Transparent",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210748526046091",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210748526046090",
+    "name": "TextButton",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210748526046090",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210721970920257",
+    "name": "[BE] 작업 내역 total_count API",
+    "completed": true,
+    "assignee": "서혁택",
+    "assignee_email": "htseo@xionits.com",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210721970920257",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210748526046089",
+    "name": "IconButton",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210748526046089",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210704755731364",
+    "name": "[FE] 대시보드 - 최근 도움 요청한 사용자 Modal",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210704755731364",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210634059480131",
+    "name": "[기획][EOS-HL_001. 작업 내역] 정책 작성",
+    "completed": true,
+    "assignee": "안소정",
+    "assignee_email": "sjan@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210634059480131",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210723197798150",
+    "name": "[기획][EOS-HL_001. 작업 내역] 정책 작성 - 공유 및 수정",
+    "completed": true,
+    "assignee": "안소정",
+    "assignee_email": "sjan@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210723197798150",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210735712533216",
+    "name": "[FE] Tag, StepTag 컴포넌트 개발 및 정리",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210735712533216",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210723197798137",
+    "name": "[기획][EOS-HL_001. 작업 내역] 정책 작성 - 실패 원인 분석",
+    "completed": true,
+    "assignee": "안소정",
+    "assignee_email": "sjan@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210723197798137",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210723197798136",
+    "name": "[기획][EOS-HL_001. 작업 내역] 정책 작성 - 필터",
+    "completed": true,
+    "assignee": "안소정",
+    "assignee_email": "sjan@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210723197798136",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210723197798135",
+    "name": "[기획][EOS-HL_001. 작업 내역] 정책 작성 - 기준화면",
+    "completed": true,
+    "assignee": "안소정",
+    "assignee_email": "sjan@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210723197798135",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210735642766998",
+    "name": "[BE] jenkins EOS CI/CD 문제 해결 ",
+    "completed": true,
+    "assignee": "송빈호",
+    "assignee_email": "bhsong@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210735642766998",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210669616798216",
+    "name": "[FE] 이전 작업 불러오기 모달 구현",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210669616798216",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210577232890551",
+    "name": "[FE] 작업 내역 업데이트 UI",
+    "completed": true,
+    "assignee": "김성훈",
+    "assignee_email": "ksh@xionits.com",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210577232890551",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210713998628493",
+    "name": "[BE] ESA user token decode 기능 EOS에서 개발",
+    "completed": true,
+    "assignee": "송빈호",
+    "assignee_email": "bhsong@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210713998628493",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210577232890556",
+    "name": "[FE] 작업 내역 엑셀 다운로드 UI",
+    "completed": true,
+    "assignee": "김성훈",
+    "assignee_email": "ksh@xionits.com",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210577232890556",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210634059480121",
+    "name": "[기획][EOS-EX_001~005. 작업 생성] 정책 작성",
+    "completed": true,
+    "assignee": "안소정",
+    "assignee_email": "sjan@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210634059480121",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210577232890531",
+    "name": "[FE] 작업 실행 상태 변경",
+    "completed": true,
+    "assignee": "김성훈",
+    "assignee_email": "ksh@xionits.com",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210577232890531",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210704755731371",
+    "name": "[FE] 3.127 (개발 서버) FE 최신 개발사항 배포",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210704755731371",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210702926856215",
+    "name": "[FE] 공통 - Table hover action 추가",
+    "completed": true,
+    "assignee": "김성훈",
+    "assignee_email": "ksh@xionits.com",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210702926856215",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210681131052976",
+    "name": "[FE] EOS 공통 Card 영역",
+    "completed": true,
+    "assignee": "김성훈",
+    "assignee_email": "ksh@xionits.com",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210681131052976",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210577232890518",
+    "name": "[FE] 작업 내역 테이블",
+    "completed": true,
+    "assignee": "김성훈",
+    "assignee_email": "ksh@xionits.com",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210577232890518",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210610327354878",
+    "name": "[FE] 작업 생성 모달 구현",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210610327354878",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210714384949592",
+    "name": "[BE] 공통 logger 추가",
+    "completed": true,
+    "assignee": "박경석",
+    "assignee_email": "kspark@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210714384949592",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210669724378318",
+    "name": "[BE] 작업 생성 데이터 Deployment 생성 로직 개발",
+    "completed": true,
+    "assignee": "박경석",
+    "assignee_email": "kspark@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210669724378318",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210723749611445",
+    "name": "[FE] 192.168.6.9 (스토리 북 서버) EOS 고도화 개발된 스토리 배포",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210723749611445",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210668408211659",
+    "name": "스프린트 2 완료",
+    "completed": true,
+    "assignee": "정재희",
+    "assignee_email": "jhjung@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210668408211659",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210610327354877",
+    "name": "[FE] 작업 상세 설정 모달 구현",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210610327354877",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210610325720592",
+    "name": "[FE] 작업 생성 테이블 구현",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210610325720592",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210669455261555",
+    "name": "[BE] EOS 관련 센서 데이터 저장 스케줄링 개발",
+    "completed": true,
+    "assignee": "송빈호",
+    "assignee_email": "bhsong@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210669455261555",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210682637841946",
+    "name": "[FE] 대시보드 디자인 수정",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210682637841946",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210610327354884",
+    "name": "[FE] 작업 생성 페이지 구성 (step 1~4 handling)",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210610327354884",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210669724378300",
+    "name": "[BE] 작업 생성 데이터 DB 적재 로직 개발",
+    "completed": true,
+    "assignee": "박경석",
+    "assignee_email": "kspark@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210669724378300",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210565633007221",
+    "name": "[FE] 대시보드 - PC 업그레이드 전체 현황 1",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210565633007221",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210565632029856",
+    "name": "[FE] 대시보드 - 부서별 현황",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210565632029856",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210565633007234",
+    "name": "[FE] 대시보드 - 최근 도움 요청한 사용자",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210565633007234",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210682637841939",
+    "name": "[FE] EOS용 Button 컴포넌트",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210682637841939",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210682637841938",
+    "name": "[FE] 예외처리케이스 추가 - ProgressIndicator, 부서별 현황, PC 업그레이드 전체 현황",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210682637841938",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210669455261557",
+    "name": "[BE] EOS API 성능 개선 작업",
+    "completed": true,
+    "assignee": "송빈호",
+    "assignee_email": "bhsong@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210669455261557",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210634059480120",
+    "name": "[기획][EOS-DB_001~001-1. 대시보드] 정책 작성   ",
+    "completed": true,
+    "assignee": "안소정",
+    "assignee_email": "sjan@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210634059480120",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210681537344825",
+    "name": "[FE] EOS 고도화 서버 연결 및 orval 세팅",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210681537344825",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210577498886683",
+    "name": "[BE] 작업 생성 api 개발 전 자료조사",
+    "completed": true,
+    "assignee": "박경석",
+    "assignee_email": "kspark@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210577498886683",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210610133368685",
+    "name": "스프린트 1 완료",
+    "completed": true,
+    "assignee": "정재희",
+    "assignee_email": "jhjung@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210610133368685",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210669724209412",
+    "name": "[BE] EOS 신규 기능 개발 자료 조사",
+    "completed": true,
+    "assignee": "박경석",
+    "assignee_email": "kspark@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210669724209412",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210669724209410",
+    "name": "[BE] 기존 프로세스와 차이점 분석 및 정리",
+    "completed": true,
+    "assignee": "박경석",
+    "assignee_email": "kspark@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210669724209410",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210669724209414",
+    "name": "[BE] 메일 발송 및 미루기 기술 검토",
+    "completed": true,
+    "assignee": "박경석",
+    "assignee_email": "kspark@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210669724209414",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210669724209408",
+    "name": "[BE] 작업생성 api 스키마 초안 정의",
+    "completed": true,
+    "assignee": "박경석",
+    "assignee_email": "kspark@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210669724209408",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210634059511070",
+    "name": "[기획] 정책서(Description) 샘플 작성 및 피드백 받기",
+    "completed": true,
+    "assignee": "안소정",
+    "assignee_email": "sjan@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210634059511070",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210610092311811",
+    "name": "[BE] 대시보드 - PC 업그레이드 전체 현황 1",
+    "completed": true,
+    "assignee": "송빈호",
+    "assignee_email": "bhsong@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210610092311811",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210565633007235",
+    "name": "[BE] 대시보드 - ProgressIndicator(Step) ",
+    "completed": true,
+    "assignee": "송빈호",
+    "assignee_email": "bhsong@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210565633007235",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210610092311812",
+    "name": "[BE] 대시보드 - PC 업그레이드 전체 현황 2",
+    "completed": true,
+    "assignee": "송빈호",
+    "assignee_email": "bhsong@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210610092311812",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210633644624438",
+    "name": "[BE] 캘린더 - progress_percentage 제거 작업",
+    "completed": true,
+    "assignee": "송빈호",
+    "assignee_email": "bhsong@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210633644624438",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210565633007227",
+    "name": "[FE] 대시보드 - PC 업그레이드 전체 현황 2",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210565633007227",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210565632029854",
+    "name": "[FE] 대시보드 - ProgressIndicator(Step)",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210565632029854",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210577498886670",
+    "name": "[BE] checked api (디바이스 간단한 정보 조회 api)",
+    "completed": true,
+    "assignee": "박경석",
+    "assignee_email": "kspark@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210577498886670",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210565612062960",
+    "name": "[FE] ScheduleMainCalendar '주' 뷰 컴포넌트 구현",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210565612062960",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210577498886666",
+    "name": "[BE] (스탭별) 대상 장치 목록 조회 api",
+    "completed": true,
+    "assignee": "박경석",
+    "assignee_email": "kspark@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210577498886666",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210610504674961",
+    "name": "[BE] 작업 실행 상태 변경 API",
+    "completed": true,
+    "assignee": "서혁택",
+    "assignee_email": "htseo@xionits.com",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210610504674961",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210610504674959",
+    "name": "[BE] 작업 실행 상태 변경 API(분석)",
+    "completed": true,
+    "assignee": "서혁택",
+    "assignee_email": "htseo@xionits.com",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210610504674959",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210610504674963",
+    "name": "[BE] 작업 내역 필터 기능 API",
+    "completed": true,
+    "assignee": "서혁택",
+    "assignee_email": "htseo@xionits.com",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210610504674963",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210633946972996",
+    "name": "[FE] 공통 - eslint String 규칙추가",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210633946972996",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210565633007290",
+    "name": "[FE] 공통 - icongraphy 개발",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210565633007290",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210610504674957",
+    "name": "[BE] 작업 내역 테이블 조회 API",
+    "completed": true,
+    "assignee": "서혁택",
+    "assignee_email": "htseo@xionits.com",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210610504674957",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210610325720591",
+    "name": "[FE] 테이블 컴포넌트 pagination 구현 (공통)",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210610325720591",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210633946972989",
+    "name": "[FE] 공통 - vm 배포시 챙겨야 되는 부분 문서화 및 스크립트 작성",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210633946972989",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210565611828610",
+    "name": "[FE] ScheduleMainCalendar '월' 뷰 컴포넌트 구현",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210565611828610",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210610327354892",
+    "name": "[FE] orval 전환 과정 중 발견한 이슈 \"로그인\" 관련 cypress 설정 변경",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210610327354892",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210610600326040",
+    "name": "[FE] 공통 - HFlex, VFlex 컴포넌트 생성",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210610600326040",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210565633007292",
+    "name": "[FE] 공통 - 변수 명명 규칙 변환 설정",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210565633007292",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210578814216230",
+    "name": "개발 시작",
+    "completed": true,
+    "assignee": "정재희",
+    "assignee_email": "jhjung@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210578814216230",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210567212957339",
+    "name": "[FE, BE] 작업 내역 API 협의",
+    "completed": true,
+    "assignee": "서혁택",
+    "assignee_email": "htseo@xionits.com",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210567212957339",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210565612062966",
+    "name": "[FE] Vanilla Extract 도입",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210565612062966",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210565633007205",
+    "name": "[FE] 대시보드 초안 API 구조 협의",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210565633007205",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210681131052967",
+    "name": "[FE] 공통 - EOS 페이지 header",
+    "completed": true,
+    "assignee": "김성훈",
+    "assignee_email": "ksh@xionits.com",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210681131052967",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210646122254944",
+    "name": "[FE] 공통 - Table Field 정렬 옵션",
+    "completed": true,
+    "assignee": "김성훈",
+    "assignee_email": "ksh@xionits.com",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210646122254944",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210565910780529",
+    "name": "[BE] 공통 - FastAPI 서버 셋팅",
+    "completed": true,
+    "assignee": "송빈호",
+    "assignee_email": "bhsong@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210565910780529",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210565597605488",
+    "name": "[FE] 작업 내역 컴포넌트 설계",
+    "completed": true,
+    "assignee": "김성훈",
+    "assignee_email": "ksh@xionits.com",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210565597605488",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210567212957334",
+    "name": "[BE] 작업 내역 API 리스트 추출",
+    "completed": true,
+    "assignee": "서혁택",
+    "assignee_email": "htseo@xionits.com",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210567212957334",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210565399680334",
+    "name": "기존 API & 예상 API 리스트 업",
+    "completed": true,
+    "assignee": "박경석",
+    "assignee_email": "kspark@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210565399680334",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210565910780528",
+    "name": "[BE] Calendar Get API 개발",
+    "completed": true,
+    "assignee": "송빈호",
+    "assignee_email": "bhsong@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210565910780528",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210566335719769",
+    "name": "[FE] 공통 - 타이포그라피 피그마 확인",
+    "completed": true,
+    "assignee": "김성훈",
+    "assignee_email": "ksh@xionits.com",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210566335719769",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210565611828620",
+    "name": "[FE] ScheduleOverviewCalendar 컴포넌트 구현",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210565611828620",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210517692023732",
+    "name": "EOS 고도화 백엔드 업무 분배",
+    "completed": true,
+    "assignee": "박경석",
+    "assignee_email": "kspark@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210517692023732",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210519444682432",
+    "name": "[FE] (공통) foundation - icon",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210519444682432",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210506180875278",
+    "name": "EOS 고도화 api 스키마 논의 자료 준비(1~3)",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210506180875278",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210495105721029",
+    "name": "EOS 고도화 신규 피쳐 분석 및 정리",
+    "completed": true,
+    "assignee": "박경석",
+    "assignee_email": "kspark@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210495105721029",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210507123551881",
+    "name": "[FE] (공통) foundation - typography",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210507123551881",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210494669383412",
+    "name": "[FE] (공통) foundation 정리",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210494669383412",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210494604346772",
+    "name": "[FE] ScheduleOverviewCalendar 구현(마무리)",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210494604346772",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210494604346776",
+    "name": "[FE] 컴포넌트 스켈레톤 공용화",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210494604346776",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210506180875273",
+    "name": "[FE] 성훈님 ESA, EOS 소개",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210506180875273",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210494750432567",
+    "name": "Swagger 스냅샷 전달",
+    "completed": true,
+    "assignee": "박경석",
+    "assignee_email": "kspark@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210494750432567",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210468947797961",
+    "name": "[기획] BE 개발 방안 논의",
+    "completed": true,
+    "assignee": "박기범",
+    "assignee_email": "kbpark@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210468947797961",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210494669383406",
+    "name": "[FE] (공통) color 등록 및 foundation 작업",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210494669383406",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210468947797956",
+    "name": "[Tanium] Tanium Deploy Test",
+    "completed": true,
+    "assignee": "박기범",
+    "assignee_email": "kbpark@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210468947797956",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210460484808454",
+    "name": "[FE] node 버전 업데이트 22.6.0 -> 22.16.0(LTS) 및 도커 파일 내 노드 버전 상세화",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210460484808454",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210457694179873",
+    "name": "[FE] EOS 고도화 캘린더 뷰 코드 정리",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210457694179873",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210468956189673",
+    "name": "[UX] 1차 개발 내용 <> 고도화 내용 비교 자료 초안 제작",
+    "completed": true,
+    "assignee": "정재희",
+    "assignee_email": "jhjung@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210468956189673",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210459172650372",
+    "name": "[FE] Open API generator 설정",
+    "completed": true,
+    "assignee": "탁민주",
+    "assignee_email": "mjtak@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210459172650372",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210285137888689",
+    "name": "[기획] 정책 정의",
+    "completed": true,
+    "assignee": "박기범",
+    "assignee_email": "kbpark@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210285137888689",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210468946575971",
+    "name": "[UX] Flow에 화면 이동 링크 추가",
+    "completed": true,
+    "assignee": "정재희",
+    "assignee_email": "jhjung@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210468946575971",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210468946575970",
+    "name": "[UX] '필터' 모달 추가",
+    "completed": true,
+    "assignee": "정재희",
+    "assignee_email": "jhjung@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210468946575970",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210457694179877",
+    "name": "[FE] 환경 세팅시 .esa-api(openapi generator) 의존성 커맨드로 정리",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210457694179877",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210338300104824",
+    "name": "대시보드 레이아웃 적용",
+    "completed": true,
+    "assignee": "Unassigned",
+    "assignee_email": "",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210338300104824",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210432532976538",
+    "name": "[UX] EOS 고도화 전체 Flow 모든 화면 생성",
+    "completed": true,
+    "assignee": "정재희",
+    "assignee_email": "jhjung@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210432532976538",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210375874604855",
+    "name": "[UX] EOS-HL_001. 작업 내역 / 상세 Flow 연결",
+    "completed": true,
+    "assignee": "김준",
+    "assignee_email": "junkim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210375874604855",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210375874604858",
+    "name": "[UX] EOS-DL_001. 대상 디바이스 목록 / 상세 Flow 연결",
+    "completed": true,
+    "assignee": "김준",
+    "assignee_email": "junkim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210375874604858",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210375874604861",
+    "name": "[UX] EOS-SV_001. 점검 설문 / 상세 Flow 연결",
+    "completed": true,
+    "assignee": "김준",
+    "assignee_email": "junkim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210375874604861",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210375874604852",
+    "name": "[UX] EOS-CL_001. 캘린더 / 상세 Flow 연결",
+    "completed": true,
+    "assignee": "김준",
+    "assignee_email": "junkim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210375874604852",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210375781401979",
+    "name": "[UX] EOS-DB_000. 대시보드 / 상세 Flow 연결",
+    "completed": true,
+    "assignee": "김준",
+    "assignee_email": "junkim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210375781401979",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210285137888686",
+    "name": "[기획] IA 작성",
+    "completed": true,
+    "assignee": "박기범",
+    "assignee_email": "kbpark@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210285137888686",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210323780034598",
+    "name": "EOS 공통레이아웃에서 링크 리스트 노출여부 옵션 추가",
+    "completed": true,
+    "assignee": "Unassigned",
+    "assignee_email": "",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210323780034598",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210246332345387",
+    "name": "EOS 대시보드 헤더 구현",
+    "completed": true,
+    "assignee": "Unassigned",
+    "assignee_email": "",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210246332345387",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210257348603595",
+    "name": "[UX] EOS 고도화 대표 화면 UI 제작",
+    "completed": true,
+    "assignee": "정재희",
+    "assignee_email": "jhjung@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210257348603595",
+    "section": "👏 Done"
+  },
+  {
+    "id": "1210232195999636",
+    "name": "[FE] 작업 요약 캘린더 뷰 구현",
+    "completed": true,
+    "assignee": "김창호",
+    "assignee_email": "chokim@xaion.co.kr",
+    "url": "https://app.asana.com/1/1201649875575380/project/1209906574339383/task/1210232195999636",
+    "section": "👏 Done"
+  }
+]
