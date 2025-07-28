@@ -7,6 +7,13 @@ Run this on your server to set up the proper Git repositories
 import os
 import subprocess
 import shutil
+from dotenv import load_dotenv
+
+# Load environment variables
+load_dotenv()
+
+# Get GitHub PAT token
+GITHUB_PAT_TOKEN = os.getenv('GITHUB_PAT_TOKEN')
 
 # Repository configurations
 REPOSITORIES = {
@@ -14,6 +21,13 @@ REPOSITORIES = {
     "esa-be": "https://github.com/XAION-Inc/esa-be.git", 
     "eos-backend": "https://github.com/XAION-Inc/eos-backend.git"
 }
+
+def get_authenticated_url(repo_url):
+    """Convert repository URL to use PAT token authentication"""
+    if GITHUB_PAT_TOKEN and repo_url.startswith("https://github.com/"):
+        # Replace https://github.com/ with https://token@github.com/
+        return repo_url.replace("https://github.com/", f"https://{GITHUB_PAT_TOKEN}@github.com/")
+    return repo_url
 
 def setup_repositories():
     """Clone repositories into the Github directory"""
@@ -43,9 +57,15 @@ def setup_repositories():
         
         # Clone the repository
         try:
-            print(f"Cloning {repo_url} to {repo_path}")
+            # Use authenticated URL if PAT token is available
+            auth_url = get_authenticated_url(repo_url)
+            if auth_url != repo_url:
+                print(f"Cloning {repo_name} using PAT token authentication")
+            else:
+                print(f"Cloning {repo_url} to {repo_path}")
+            
             result = subprocess.run(
-                ["git", "clone", repo_url, repo_path],
+                ["git", "clone", auth_url, repo_path],
                 capture_output=True,
                 text=True,
                 check=True
