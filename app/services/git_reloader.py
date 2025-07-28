@@ -1,10 +1,13 @@
 import os
 import subprocess
 
+# Get the absolute path to the project root (where this script's parent directory is)
+PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
 REPO_PATHS = {
-    "Frontend": "../Github/x-core",
-    "ESA-Backend": "../Github/esa-be",
-    "EOS-Backend": "../Github/eos-backend"
+    "Frontend": os.path.join(PROJECT_ROOT, "Github", "x-core"),
+    "ESA-Backend": os.path.join(PROJECT_ROOT, "Github", "esa-be"),
+    "EOS-Backend": os.path.join(PROJECT_ROOT, "Github", "eos-backend")
 }
 
 def reload_git_repos():

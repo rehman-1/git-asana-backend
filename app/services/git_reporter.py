@@ -11,11 +11,14 @@ from app.asana.config import CACHE_DIR
 # Load environment variables
 load_dotenv()
 
-# Get repository paths from environment variables
+# Get the absolute path to the project root (where this script's parent directory is)
+PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+# Get repository paths from environment variables with absolute path defaults
 REPO_PATHS = {
-    "Frontend": os.getenv("FRONTEND_REPO_PATH", "./Github/x-core"),
-    "ESA-Backend": os.getenv("ESA_REPO_PATH", "./Github/esa-be"),
-    "EOS-Backend": os.getenv("EOS_REPO_PATH", "./Github/eos-backend")
+    "Frontend": os.getenv("FRONTEND_REPO_PATH", os.path.join(PROJECT_ROOT, "Github", "x-core")),
+    "ESA-Backend": os.getenv("ESA_REPO_PATH", os.path.join(PROJECT_ROOT, "Github", "esa-be")),
+    "EOS-Backend": os.getenv("EOS_REPO_PATH", os.path.join(PROJECT_ROOT, "Github", "eos-backend"))
 }
 
 # Base URLs for the repositories
