@@ -85,17 +85,33 @@ def reload_git_repos():
     for name, path in REPO_PATHS.items():
         repo_path = os.path.abspath(path)
         if not os.path.isdir(repo_path):
-            output[name] = "Directory does not exist"
+            output[name] = {"error": "Directory does not exist", "path_checked": repo_path}
             continue
         try:
+            # Debug: Add path information
+            debug_info = {
+                "repo_path": repo_path,
+                "path_exists": os.path.exists(repo_path),
+                "is_git_repo": os.path.exists(os.path.join(repo_path, ".git"))
+            }
+            
             # Get remote info first
             remote_result = subprocess.run(["git", "remote", "-v"], cwd=repo_path, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
             
             # Get current branch
             branch_result = subprocess.run(["git", "branch", "--show-current"], cwd=repo_path, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
             
-            # Perform git pull
+            # Perform git fetch first to get latest remote info
+            fetch_result = subprocess.run(["git", "fetch"], cwd=repo_path, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
+            
+            # Then perform git pull
             pull_result = subprocess.run(["git", "pull"], cwd=repo_path, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
+            
+            # Get status after pull
+            status_result = subprocess.run(["git", "status", "--porcelain"], cwd=repo_path, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
+            
+            # Get last commit info
+            log_result = subprocess.run(["git", "log", "-1", "--oneline"], cwd=repo_path, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
             
             # Extract GitHub info and get API data
             remote_lines = remote_result.stdout.strip().split('\n')
@@ -110,12 +126,17 @@ def reload_git_repos():
             
             # Combine all information
             output[name] = {
+                "debug_info": debug_info,
                 "remote": remote_result.stdout.strip(),
                 "current_branch": branch_result.stdout.strip(),
+                "fetch_result": fetch_result.stdout.strip(),
+                "fetch_error": fetch_result.stderr.strip() if fetch_result.stderr.strip() else None,
                 "pull_result": pull_result.stdout.strip(),
                 "pull_error": pull_result.stderr.strip() if pull_result.stderr.strip() else None,
+                "status": status_result.stdout.strip(),
+                "last_commit": log_result.stdout.strip(),
                 "github_api_data": github_info
             }
         except Exception as e:
-            output[name] = {"error": str(e)}
+            output[name] = {"error": str(e), "repo_path": repo_path}
     return output
